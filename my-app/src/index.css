@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'MarivoFont';
+  src: url(./fonts/MariinavoFont-Regular.ttf);
+}
+
+* {
+  font-family: "MarivoFont";
+}
+
+#root, body {
+  background-color: rgb(255, 243, 226);
+}

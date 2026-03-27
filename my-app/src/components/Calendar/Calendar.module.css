@@ -1,0 +1,49 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.row {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(20px, 1fr));
+  gap: 12px;
+  white-space: nowrap;
+}
+.charBlock {
+  position: relative;
+}
+
+.char {
+  height: 40px;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  position: relative;
+}
+
+.white {
+  color: rgb(255, 255, 255);
+}
+
+.heart {
+  position: absolute;
+  z-index: 0;
+  height: 50px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.month {
+  position: absolute;
+  top: -16px;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+text-align: center;
+gap: 8px;
+}
