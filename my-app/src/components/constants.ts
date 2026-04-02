@@ -1,10 +1,10 @@
 export const ATTENDING = [
   {
-    text: "Будете ли Вы?",
+    text: "Придете ли Вы?",
     value: "",
   },
   {
-    text: "Буду",
+    text: "Конечно!",
     value: "true",
   },
   {
@@ -55,10 +55,6 @@ export const DRINKS = [
   {
     value: "cognac",
     text: "Коньяк",
-  },
-  {
-    value: "gin",
-    text: "Джин",
   },
   {
     value: "moonshine",

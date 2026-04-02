@@ -16,3 +16,16 @@
 .button.disabled {
   opacity: 0.5;
 }
+
+.title {
+  font-size: 20px;
+}
+
+.note {
+  color: #CE3E49;
+  font-size: 12px;
+}
+
+.questions {
+font-size: 18px;
+}

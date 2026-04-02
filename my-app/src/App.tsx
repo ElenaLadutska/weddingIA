@@ -1,10 +1,12 @@
 import React from 'react';
 import Timer from './components/Timer';
-import RsvpForm from './components/RsvpForm';
 import Header  from './components/Header';
+import Calendar from './components/Calendar';
+import { Programm } from './components/Programm';
+import { Details } from './components/Details';
+import { Channel } from './components/Channel';
 
 import styles from './App.module.css';
-import Calendar from './components/Calendar';
 
 function App() {
   return (
@@ -15,7 +17,11 @@ function App() {
       
       <Timer />
 
-      <RsvpForm />
+      <Programm />
+
+      <Details />
+
+      <Channel />
     </div>
   );
 }

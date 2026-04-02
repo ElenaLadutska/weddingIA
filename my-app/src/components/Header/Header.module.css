@@ -84,7 +84,7 @@
   top: -80px;
 
   --speech-fill: #fff;
-  --border-fill: #ce3e49
+  --border-fill: #ce3e49;
 }
 
 .ilona .speech {
@@ -101,4 +101,9 @@
   left: 5px;
   top: 30px;
   z-index: 3;
+}
+
+.wrapper {
+  border-bottom: 2px dashed #ce3e49;
+  padding-bottom: 24px;
 }

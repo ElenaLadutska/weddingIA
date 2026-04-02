@@ -9,7 +9,7 @@ import { ReactComponent as SpeechSvg } from "../../assets/speech.svg";
 import styles from "./Header.module.css";
 
 const Header = () => (
-  <div className={styles.column}>
+  <div className={cln(styles.column, styles.wrapper)}>
     <div className={styles.titleBlock}>
       <div className={styles.title}>Приглашаем на свадьбу!</div>
       <div className={styles.date}>08.08</div>

@@ -3,6 +3,8 @@
   flex-direction: column;
   align-items: center;
   gap: 8px;
+  border-bottom: 2px dashed #ce3e49;
+  padding-bottom: 24px;
 }
 
 .title {

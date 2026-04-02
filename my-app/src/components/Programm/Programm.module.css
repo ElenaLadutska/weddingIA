@@ -1,0 +1,55 @@
+.wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  border-bottom: 2px dashed #ce3e49;
+}
+
+.title {
+  font-size: 30px;
+}
+
+.content {
+  position: relative;
+}
+
+.spiral {
+  width: 90%;
+  height: 300px;
+}
+
+.first,
+.second,
+.third {
+  position: absolute;
+  text-align: center;
+}
+
+.first {
+  top: 5%;
+}
+
+.second {
+  bottom: 15%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+}
+
+.third {
+  right: 0;
+  bottom: 40%;
+}
+
+.event {
+  font-weight: 700;
+  font-size: 18px;
+}
+.time {
+  color: #ce3e49;
+}
+
+.place {
+  font-size: 14px;
+}
