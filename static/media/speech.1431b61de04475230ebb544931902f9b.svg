@@ -1,0 +1,22 @@
+<svg width="202" height="171" viewBox="0 0 202 171" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="68.5" cy="58" rx="34.5" ry="29" fill="var(--border-fill)"/>
+<ellipse cx="125.5" cy="58" rx="34.5" ry="29" fill="var(--border-fill)"/>
+<ellipse cx="91.5" cy="84" rx="34.5" ry="29" fill="var(--border-fill)"/>
+<circle cx="15" cy="160" r="4" fill="var(--border-fill)"/>
+<ellipse cx="144.5" cy="87" rx="34.5" ry="29" fill="var(--border-fill)"/>
+<ellipse cx="163.5" cy="55" rx="34.5" ry="29" fill="var(--border-fill)"/>
+<ellipse cx="137.5" cy="29" rx="34.5" ry="29" fill="var(--border-fill)"/>
+<ellipse cx="94.5" cy="29" rx="34.5" ry="29" fill="var(--border-fill)"/>
+<circle cx="46.5" cy="120.5" r="12.5" fill="var(--border-fill)"/>
+<circle cx="26.5" cy="140.5" r="7.5" fill="var(--border-fill)"/>
+<ellipse cx="70.5" cy="60" rx="34.5" ry="29" fill="var(--speech-fill)"/>
+<ellipse cx="127.5" cy="60" rx="34.5" ry="29" fill="var(--speech-fill)"/>
+<ellipse cx="93.5" cy="86" rx="34.5" ry="29" fill="var(--speech-fill)"/>
+<ellipse cx="146.5" cy="89" rx="34.5" ry="29" fill="var(--speech-fill)"/>
+<ellipse cx="165.5" cy="57" rx="34.5" ry="29" fill="var(--speech-fill)"/>
+<ellipse cx="139.5" cy="31" rx="34.5" ry="29" fill="var(--speech-fill)"/>
+<ellipse cx="96.5" cy="31" rx="34.5" ry="29" fill="var(--speech-fill)"/>
+<circle cx="48.5" cy="122.5" r="12.5" fill="var(--speech-fill)"/>
+<circle cx="28.5" cy="142.5" r="7.5" fill="var(--speech-fill)"/>
+<circle cx="17" cy="162" r="4" fill="var(--speech-fill)"/>
+</svg>

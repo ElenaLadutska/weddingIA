@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weddingIA/static/css/main.30569473.css",
+    "main.js": "/weddingIA/static/js/main.f0d59fc1.js",
+    "static/js/453.117b0875.chunk.js": "/weddingIA/static/js/453.117b0875.chunk.js",
+    "static/media/spiralArrow.svg": "/weddingIA/static/media/spiralArrow.77824ab31bfe1dc37b0a9a6bcd1173d5.svg",
+    "static/media/sasha.png": "/weddingIA/static/media/sasha.322e72f74605687179c2.png",
+    "static/media/ilona.png": "/weddingIA/static/media/ilona.fdfd49d1c9c71986d516.png",
+    "static/media/heart-2.svg": "/weddingIA/static/media/heart-2.0beb8b757d085b32ac06487acbf5a05b.svg",
+    "static/media/heart.svg": "/weddingIA/static/media/heart.877befe771e68565f8fe659659f1218c.svg",
+    "static/media/MariinavoFont-Regular.ttf": "/weddingIA/static/media/MariinavoFont-Regular.110aae88d999f2c1c221.ttf",
+    "static/media/speech.svg": "/weddingIA/static/media/speech.1431b61de04475230ebb544931902f9b.svg",
+    "index.html": "/weddingIA/index.html",
+    "main.30569473.css.map": "/weddingIA/static/css/main.30569473.css.map",
+    "main.f0d59fc1.js.map": "/weddingIA/static/js/main.f0d59fc1.js.map",
+    "453.117b0875.chunk.js.map": "/weddingIA/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30569473.css",
+    "static/js/main.f0d59fc1.js"
+  ]
+}
