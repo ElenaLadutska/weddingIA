@@ -1,1 +1,1 @@
-# weddingIA
+# readme for the project
