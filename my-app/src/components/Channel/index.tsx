@@ -1,7 +1,14 @@
 import styles from "./Channel.module.css";
 
 export const Channel = () => {
-  const openTg = () => {};
+  const openTg = () => {
+    const a = document.createElement("a");
+
+    a.href = "https://t.me/+2-pm1iP62yg2NGIy";
+    a.target = "_blank";
+    a.click();
+  };
+
   return (
     <div className={styles.wrapper}>
       <div className={styles.text}>
